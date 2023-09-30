@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: black;
+}
+
+#middle {
+    background-color: rgb(45, 50, 54)
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
