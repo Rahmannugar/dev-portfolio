@@ -3,7 +3,7 @@ import React from "react";
 const MiddleSection = () => {
   return (
     <div
-      className="px-5 py-10 md:flex md:space-x-10 lg:px-20 lg:space-x-16"
+      className="mt-5 sm:mt-10 px-5 py-10 md:flex md:space-x-10 lg:px-20 lg:space-x-16"
       id="middle"
     >
       <div>
